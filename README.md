@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sankar 👋</h1>
+<p align="center">
+  🚀 Cybersecurity Student • 💻 Frontend Developer • 📡 Network Enthusiast
+</p>
 
-<!--
-**sankarlmao/sankarlmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  CSE & Cybersecurity Engineering Student at **MITS**
+-  Passionate about ethical hacking, networking & open-source tools
+-  Currently working on a **Vulnerability Scanner** & a **Football Content App**
+-  Learning: Reverse Engineering, API Security, React.js
+
+---
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages:     Python, C, JavaScript, HTML, CSS
+Tools:         Nmap, Scapy, Burp Suite, Aircrack-ng, Git, Linux
+Frontend:      React.js, TailwindCSS, Bootstrap
+Backend:       Flask, Node.js (basic), Firebase
+Other Tools:   Cisco Packet Tracer, VSCode, GitHub, Postman
