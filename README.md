@@ -1,7 +1,7 @@
- <h1 align="center">Hey there, I'm Sankar 👋</h1>
+ <h1 align="center">Hey , I'm Sankar </h1>
 <p align="center">
   <b>Cybersecurity Enthusiast | CSE Student | Developer & Builder</b><br>
-  <i>I break, build, secure, and share.</i>
+  <i>I break,or build.</i>
 </p>
 
 ---
