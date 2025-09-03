@@ -73,6 +73,6 @@
 ---
 
 <p align="center">
-  <i>“Security isn’t a product, it’s a process.” — Bruce Schneier</i><br>
+  <i></i><br>
   <img src="https://komarev.com/ghpvc/?username=sankarlmao&label=Profile%20Views&color=blue" />
 </p>
