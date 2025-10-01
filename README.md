@@ -6,19 +6,41 @@
 
 ---
 
+## 🛠️ Tech & Tools
+
+<p align="center">
+  <!-- Programming Languages & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+</p>
+
+<p align="center">
+  <!-- Cybersecurity / Networking Tools -->
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/nmap.png" width="40" title="Nmap"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/wireshark.png" width="40" title="Wireshark"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/burp.png" width="40" title="Burp Suite"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/metasploit.png" width="40" title="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/aircrack.png" width="40" title="Aircrack-ng"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/hydra.png" width="40" title="Hydra"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/john.png" width="40" title="John the Ripper"/>
+  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/tryhackme.png" width="40" title="TryHackMe"/>
+</p>
+
+---
+
 ## 🌱 Currently Learning
-Started with **TryHackMe** to currently learning:  
+- Started with **TryHackMe** to currently learning:  
 - Advanced **Network Security** concepts  
 - **Penetration Testing** workflows  
-- Tools I'm working with:  
-  - 🕵️ Nmap  
-  - 🌐 Wireshark  
-  - 🔍 Burp Suite  
-  - 💣 Metasploit  
-  - 📡 Aircrack-ng  
-  - 🔑 Hydra  
-  - 🔐 John the Ripper  
-  - 🎯 TryHackMe  
+- I'm trying to learn web-development, React and others  
 
 ---
 
@@ -30,15 +52,11 @@ A smart file organizer that automatically categorizes and sorts your messy folde
 - ⚡ Lightweight & fast  
 - 🎯 Keeps your workspace clutter-free  
 
----
-
 ### ⚙️ [CGen](https://github.com/sankarlmao/CGen)  
 An offline **C program generator** that creates simple or complex C programs from prompts.  
 - 📦 Fully offline, lightweight & portable  
 - 🧠 Generates programs covering data structures & core concepts  
 - 🔧 Designed for **learning & practice in C programming**  
-
----
 
 ### 💬 [Quote CLI](https://github.com/sankarlmao/quote-cli)  
 A command-line tool that generates unique, fun, and motivational quotes.  
@@ -66,9 +84,7 @@ A command-line tool that generates unique, fun, and motivational quotes.
 
 ## 📫 Connect with Me  
 - GitHub: [@sankarlmao](https://github.com/sankarlmao)  
-- LinkedIn: *(add your link if you want)*  
-- Email: *(optional, if you want to share)*  
+- LinkedIn: https://www.linkedin.com/in/sankarcy/  
+- Email: imsankarlmao@gmail.com
 
 ---
-
-⚡ *“Hack the mindset, not just the machine.”*  
