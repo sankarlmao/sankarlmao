@@ -23,8 +23,7 @@
 </p>
 
 <p align="center">
-  Here are some of the languages and frameworks I work with sometimes. Im not a pro or even Intermidiate on some tools as some have a very deep learning curve 
-  .  
+  Here are some of the languages and frameworks I work with sometimes. I'm not a pro or even intermediate on some tools, as some have a very deep learning curve.  
 </p>
 
 ---
@@ -79,6 +78,14 @@ A command-line tool that generates unique, fun, and motivational quotes.
 - LinkedIn: [here it is](https://www.linkedin.com/in/sankarcy/)  
 - Email: [here it is](mailto:imsankarlmao@gmail.com)  
 - GitHub: [@sankarlmao](https://github.com/sankarlmao)  
+
+---
+
+## 📈 GitHub Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankarlmao&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
