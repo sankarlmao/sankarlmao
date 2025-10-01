@@ -22,17 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
-<p align="center">
-  <!-- Cybersecurity / Networking Tools -->
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/nmap.png" width="40" title="Nmap"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/wireshark.png" width="40" title="Wireshark"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/burp.png" width="40" title="Burp Suite"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/metasploit.png" width="40" title="Metasploit"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/aircrack.png" width="40" title="Aircrack-ng"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/hydra.png" width="40" title="Hydra"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/john.png" width="40" title="John the Ripper"/>
-  <img src="https://raw.githubusercontent.com/sankarlmao/assets/main/icons/tryhackme.png" width="40" title="TryHackMe"/>
-</p>
 
 ---
 
