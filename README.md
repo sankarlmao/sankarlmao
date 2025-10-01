@@ -22,6 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
 
+<p align="center">
+  Here are some of the languages and frameworks I work with regularly. They help me build tools, websites, and scripts efficiently.  
+</p>
 
 ---
 
@@ -72,8 +75,10 @@ A command-line tool that generates unique, fun, and motivational quotes.
 ---
 
 ## 📫 Connect with Me  
+- LinkedIn: [here it is](https://www.linkedin.com/in/sankarcy/)  
+- Email: [here it is](mailto:imsankarlmao@gmail.com)  
 - GitHub: [@sankarlmao](https://github.com/sankarlmao)  
-- LinkedIn: https://www.linkedin.com/in/sankarcy/  
-- Email: imsankarlmao@gmail.com
 
 ---
+
+⚡ *“Hack the mindset, not just the machine.”*  
