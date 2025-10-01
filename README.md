@@ -1,78 +1,74 @@
-<h1 align="center">👋 Hey, I'm Sankar</h1>
-<p align="center">
-  <b>Cybersecurity Enthusiast | CSE Student | Builder</b><br>
-  <i>"I break, or I build." — figuring out both sides of tech</i>
-</p>
+# 👋 Hi, I'm Sankar  
+
+🚀 CSE and Cybersecurity Engineering student at **Muthoot Institute of Technology and Science**  
+🔒 Passionate about **cybersecurity, networking, and building cool tools** that make life easier  
+💡 Always exploring new technologies and sharpening my hacking skills  
 
 ---
 
-## 🧑‍💻 About Me  
-
-- 🎓 2nd Year CSE & Cybersecurity Engineering student at **MITS**  
-- 🔐 Into ethical hacking, exploit research & network security  
-- 🧠 Love tinkering with system-level tools and real-time monitoring  
-- 💡 I like building small but useful tools to learn & contribute  
-- ⚡ Fun fact: debugging feels like a video game to me  
-
----
-
-## 🛠️ Tech & Tools  
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-</p>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
-</p>
-
-<p>Other stuff I often mess with: Nmap, Burp Suite, Scapy, Aircrack-ng, bash scripting...</p>
+## 🌱 Currently Learning
+Started with **TryHackMe** to currently learning:  
+- Advanced **Network Security** concepts  
+- **Penetration Testing** workflows  
+- Tools I'm working with:  
+  - 🕵️ Nmap  
+  - 🌐 Wireshark  
+  - 🔍 Burp Suite  
+  - 💣 Metasploit  
+  - 📡 Aircrack-ng  
+  - 🔑 Hydra  
+  - 🔐 John the Ripper  
+  - 🎯 TryHackMe  
 
 ---
 
-## 🚀 Projects  
+## 🛠️ Featured Projects  
 
-| Project | What it does |
-|--------|-------------|
-| 🔍 [**Vulnerability Scanner**](https://github.com/sankarlmao/vulnerability-scanner) | Finds open ports, services & known vulns. Has PDF reporting + modular design. |
-| 📡 [**Network Traffic Analyzer** *(WIP)*](https://github.com/sankarlmao) | Scapy + raw sockets to classify packets and detect anomalies. |
-| 🔁 [**Port Authentication System**](https://github.com/sankarlmao) | Python tool for USB-based PC access control. |
-| ⚽ [**Football Content Wiki**](https://github.com/sankarlmao) | Fun frontend project inspired by WikiTok with football content. |
+### 📂 [CleanFolder](https://github.com/sankarlmao/CleanFolder)  
+A smart file organizer that automatically categorizes and sorts your messy folders with ease.  
+- 🗂️ Organizes files by type, extension, or category  
+- ⚡ Lightweight & fast  
+- 🎯 Keeps your workspace clutter-free  
+
+---
+
+### ⚙️ [CGen](https://github.com/sankarlmao/CGen)  
+An offline **C program generator** that creates simple or complex C programs from prompts.  
+- 📦 Fully offline, lightweight & portable  
+- 🧠 Generates programs covering data structures & core concepts  
+- 🔧 Designed for **learning & practice in C programming**  
+
+---
+
+### 💬 [Quote CLI](https://github.com/sankarlmao/quote-cli)  
+A command-line tool that generates unique, fun, and motivational quotes.  
+- ⌨️ CLI-based & lightweight  
+- 🎲 Randomized responses for freshness  
+- 🛠️ Built for simplicity and inspiration on the go  
+
+---
+
+## 📦 Other Projects  
+- 🔎 **Vulnerability Scanner** – Built using Nmap, Socket, and Scapy with GUI + PDF export  
+- 📊 **Network Traffic Analyzer** – Custom analyzer with visualization features  
+- 🖥️ **Port Authentication System** – A security project for port-based access control  
+- 😂 **Yawn Detector** – Fun project for a "useless project hackathon"  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankarlmao&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=sankarlmao&theme=tokyonight" width="48%"/>
-</p>
+![Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankarlmao&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarlmao&layout=compact&theme=radical)  
 
 ---
 
-## 🌱 Currently Learning  
-
-- Exploit Development & Buffer Overflows  
-- Cloud Security (Azure basics)  
-- Advanced Nmap Scripting  
-- React + Tailwind dashboards  
+## 📫 Connect with Me  
+- GitHub: [@sankarlmao](https://github.com/sankarlmao)  
+- LinkedIn: *(add your link if you want)*  
+- Email: *(optional, if you want to share)*  
 
 ---
 
-## 🌐 Connect  
-
-[Portfolio](https://sankarlmao.github.io) · [LinkedIn](https://www.linkedin.com/in/sankarcy) · [GitHub](https://github.com/sankarlmao)  
-
----
-
-<p align="center">
-  <i></i><br>
-  <img src="https://komarev.com/ghpvc/?username=sankarlmao&label=Profile%20Views&color=blue" />
-</p>
+⚡ *“Hack the mindset, not just the machine.”*  
