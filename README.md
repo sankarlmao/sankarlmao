@@ -23,7 +23,8 @@
 </p>
 
 <p align="center">
-  Here are some of the languages and frameworks I work with regularly. They help me build tools, websites, and scripts efficiently.  
+  Here are some of the languages and frameworks I work with sometimes. Im not a pro or even Intermidiate on some tools as some have a very deep learning curve 
+  .  
 </p>
 
 ---
