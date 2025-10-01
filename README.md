@@ -88,5 +88,4 @@ A command-line tool that generates unique, fun, and motivational quotes.
 </p>
 
 ---
-
-⚡ *“Hack the mindset, not just the machine.”*  
+looking for internships
