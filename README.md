@@ -2,7 +2,7 @@
 
 🚀 CSE and Cybersecurity Engineering student at **Muthoot Institute of Technology and Science**  
 🔒 Passionate about **cybersecurity, networking, and building cool tools** that make life easier  
-💡 Always exploring new technologies and sharpening my hacking skills  
+💡 Always exploring new technologies and sharpening my skills  
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Started with **TryHackMe** to currently learning:  
+- 
 - Advanced **Network Security** concepts  
 - **Penetration Testing** workflows  
 - I'm trying to learn web-development, React and others  
