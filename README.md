@@ -86,6 +86,10 @@ A command-line tool that generates unique, fun, and motivational quotes.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankarlmao&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 ---
 looking for internships
