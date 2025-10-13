@@ -92,4 +92,4 @@ A command-line tool that generates unique, fun, and motivational quotes.
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 ---
-looking for internships
+open for works/internships
