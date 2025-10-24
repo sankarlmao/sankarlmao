@@ -20,10 +20,7 @@
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-&nbsp; <img src="path/to/nmap-logo.svg" width="40" title="Nmap" alt="Nmap logo"/>
-&nbsp; <img src="path/to/aircrack-ng-logo.svg" width="40" title="Aircrack-ng" alt="Aircrack-ng logo"/>
-&nbsp; <img src="path/to/burpsuite-logo.svg" width="40" title="Burp Suite" alt="Burp Suite logo"/>  
-</p>
+ </p>
 
 <p align="center">
   Here are some of the languages and frameworks I work with sometimes. I'm not a pro or even intermediate on some tools, as some have a very deep learning curve.  
