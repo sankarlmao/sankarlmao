@@ -21,6 +21,7 @@
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   &nbsp; <img src="https://nmap.org/images/nmap-project-logo.svg" width="40" title="Nmap" alt="Nmap logo"/>
+  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/kalilinux.svg" width="40" title="Kali Linux" alt="Kali Linux logo"/>
 
  </p>
 
