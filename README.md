@@ -20,6 +20,9 @@
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+&nbsp; <img src="https://www.svgrepo.com/show/508936/nmap.svg" width="40" title="Nmap"/>
+&nbsp; <img src="https://www.svgrepo.com/show/306437/aircrack-ng.svg" width="40" title="Aircrack-ng"/>
+&nbsp; <img src="https://www.svgrepo.com/show/373491/burp.svg" width="40" title="Burp Suite"/>
 </p>
 
 <p align="center">
