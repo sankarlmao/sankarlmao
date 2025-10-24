@@ -21,8 +21,6 @@
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
 &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   &nbsp; <img src="https://nmap.org/images/nmap-project-logo.svg" width="40" title="Nmap" alt="Nmap logo"/>
-&nbsp; <img src="https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.svg" width="40" title="Aircrack-ng" alt="Aircrack-ng logo"/>
-&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/…/BurpSuite_Comunity_Edition.svg" width="40" title="Burp Suite" alt="Burp Suite logo"/>
 
  </p>
 
