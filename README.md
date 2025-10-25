@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Sankar  
-```bash
-print("Hello")
-```
 
 🚀 CSE and Cybersecurity Engineering student at **Muthoot Institute of Technology and Science**  
 🔒 Passionate about **cybersecurity, networking, and building cool tools** that make life easier  
