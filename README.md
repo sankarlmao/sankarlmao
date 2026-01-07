@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Sankar  
 refined laziness aka efficiency
-https://readme-typing-svg.demolab.com/demo/?font=g&lines=%60%60%60bash+%24+whoami+%3E+sankarlmao++%24+cat+psychosherlock.json+%7B+++%22full_name%22%3A+%22Sankar+B%22%2C+++%22age%22%3A+19%2C+++%22email%22%3A+%22imsankarlmao%40gmail.com%22%2C+++%22location%22%3A+%22Alappuzha%2C+Kerala%2C+India%22%2C+++%22working%22%3A+false%2C+++%22available_for_hire%22%3A+true%2C+++%22status%22%3A+%22Intern+at+CCPS+alappuzha%22%2C+++%22currently%22%3A+%22Student%22%2C+%7D++%24+echo+%24PATH+%2Fsecurity%2Fvapt%3A%2Fctf%3A%2Fdevelopment%3A%2Fbugbounty%3A%2Fhunting
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=g&pause=1000&width=435&lines=%60%60%60bash+%24+whoami+%3E+sankarlmao++%24+cat+psychosherlock.json+%7B+++%22full_name%22%3A+%22Sankar+B%22%2C+++%22age%22%3A+19%2C+++%22email%22%3A+%22imsankarlmao%40gmail.com%22%2C+++%22location%22%3A+%22Alappuzha%2C+Kerala%2C+India%22%2C+++%22working%22%3A+false%2C+++%22available_for_hire%22%3A+true%2C+++%22status%22%3A+%22Intern+at+CCPS+alappuzha%22%2C+++%22currently%22%3A+%22Student%22%2C+%7D++%24+echo+%24PATH+%2Fsecurity%2Fvapt%3A%2Fctf%3A%2Fdevelopment%3A%2Fbugbounty%3A%2Fhunting" alt="Typing SVG" /></a>
+
+
+
+
 🚀 CSE and Cybersecurity Engineering student at **Muthoot Institute of Technology and Science**  
 🔒 Passionate about **cybersecurity, networking, and building cool tools** that make life easier  
 💡 Always exploring new technologies and sharpening my skills  
