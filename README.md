@@ -32,7 +32,6 @@
 
 ---
 
-<img width="2420" height="2756" alt="about-me" src="https://github.com/user-attachments/assets/2da54105-e552-4bf2-8d4a-94d537169421" />
 
 ---
 
