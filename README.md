@@ -1,105 +1,360 @@
-# 👋 Hi, I'm Sankar  
-refined laziness aka efficiency
+<div align="center">
 
+<!-- Matrix-style header -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ███████╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗             ║
+║   ██╔════╝██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗            ║
+║   ███████╗███████║██╔██╗ ██║█████╔╝ ███████║██████╔╝            ║
+║   ╚════██║██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗            ║
+║   ███████║██║  ██║██║ ╚████║██║  ██╗██║  ██║██║  ██║            ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝            ║
+║                                                                  ║
+║              [ CYBERSECURITY ENTHUSIAST ]                         ║
+║              [ ETHICAL HACKER IN TRAINING ]                       ║
+║              [ LINUX EVANGELIST ]                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=750&height=80&lines=%24+whoami;sankar+%7C+CSE+%26+Cybersecurity+Student+%40+MITS" alt="Typing SVG" />
+
+<br/>
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000?style=for-the-badge)](http://sankarlmao.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankarcy/)
+
+</div>
+
+---
 
 <img width="2420" height="2756" alt="about-me" src="https://github.com/user-attachments/assets/2da54105-e552-4bf2-8d4a-94d537169421" />
 
-
-🚀 CSE and Cybersecurity Engineering student at **Muthoot Institute of Technology and Science**  
-🔒 Passionate about **cybersecurity, networking, and building cool tools** that make life easier  
-💡 Always exploring new technologies and sharpening my skills  
-
 ---
 
-## 🛠️ Tech & Tools
+## ⚡ `$ cat /etc/sankar/profile`
 
-<p align="center">
-  <!-- Programming Languages & Frameworks -->
+```bash
+┌──(sankar㉿kali)-[~]
+└─$ neofetch
+```
 
+```yaml
+  ╭─────────────────────────────────────────╮
+  │           sankar@cybersec               │
+  ╰─────────────────────────────────────────╯
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  OS        → Arch Linux / Kali Linux
+  Uptime    → 19 years of existence
+  Shell     → zsh + custom terminal header
+  WM        → Hyprland / i3wm
+  Terminal  → kitty / alacritty
   
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  &nbsp; <img src="https://nmap.org/images/nmap-project-logo.svg" width="40" title="Nmap" alt="Nmap logo"/>
-  &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/kalilinux.svg" width="40" title="Kali Linux" alt="Kali Linux logo"/>
+  ─── identity ───────────────────────────
+  Name      → Sankar
+  Role      → CSE & Cybersecurity Student
+  College   → Muthoot Institute of Technology & Science (MITS)
+  Intern    → CCPS Alappuzha
+  Location  → Kerala, India 🇮🇳
+  
+  ─── interests ──────────────────────────
+  🔓 Penetration Testing & Red Teaming
+  🌐 Network Security & Traffic Analysis
+  📡 Software Defined Radio (SDR)
+  🐧 Linux Administration & Ricing
+  🕸️ Web Application Security
+  🧠 Malware Analysis & Reverse Engineering
+  🏴 CTF Player
+  
+  ─── status ─────────────────────────────
+  available_for_hire  → true
+  open_to_ctf_teams   → true
+  coffee_dependency   → critical ☕
+  
+  fun_fact → "I automate things I'll only do twice"
+```
 
- </p>
+---
+
+## 🛡️ `$ cat /proc/skills/arsenal`
+
+<div align="center">
+
+### ⚔️ Offensive Security
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-2C2D72?style=flat-square&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-BA1212?style=flat-square&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-5C2D91?style=flat-square&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-008080?style=flat-square&logoColor=white)
+
+### 🐧 Systems & Platforms
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🧰 Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 `$ ls -la ~/projects/featured/`
+
+<div align="center">
+
+```
+drwxr-xr-x  sankar  sankar  4096  Mar 10 18:00  .
+drwxr-xr-x  sankar  sankar  4096  Mar 10 18:00  ..
+-rwxr-x---  sankar  sankar  exploit  vulnerability-scanner/
+-rwxr-x---  sankar  sankar  recon    VHF-UHF-DMR-SDR-Monitoring-Station/
+-rwxr-x---  sankar  sankar  monitor  Linux-monitoring-tool/
+-rwxr-x---  sankar  sankar  campus   Mits-PRINT/
+-rwxr-x---  sankar  sankar  util     CleanFolder/
+-rwxr-x---  sankar  sankar  ai       all-ai/
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [`vulnerability-scanner`](https://github.com/sankarlmao/vulnerability-scanner)
+> Python-based vulnerability scanner leveraging **Nmap**, **Socket**, and **Scapy** — features a full GUI and automatic **PDF report generation**.
+
+```
+[+] Target: 192.168.1.0/24
+[+] Scanning ports...
+[+] Vulnerabilities found: 7
+[+] Report exported: scan_report.pdf
+```
+
+`Python` `Nmap` `Scapy` `Tkinter` ⭐2
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [`SDR-Monitoring-Station`](https://github.com/sankarlmao/VHF-UHF-DMR-SDR-Monitoring-Station)
+> Software-defined radio station for scanning **VHF, UHF, and DMR** transmissions using **RTL-SDR** — monitors real radio frequencies.
+
+```
+[+] Frequency: 145.500 MHz
+[+] Mode: FM / DMR
+[+] Decoding digital voice...
+[+] Signal strength: ████████░░ 80%
+```
+
+`Python` `RTL-SDR` `GNU Radio` `DSD` ⭐2
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [`Linux-monitoring-tool`](https://github.com/sankarlmao/Linux-monitoring-tool)
+> Lightweight real-time monitor for **CPU, RAM, disk, and network** stats on Linux systems with logging and alerting.
+
+```
+CPU  [████████████░░░░░░░░] 62%
+RAM  [██████████░░░░░░░░░░] 51%
+DISK [████████░░░░░░░░░░░░] 42%
+NET  ↑ 2.4 MB/s  ↓ 12.1 MB/s
+```
+
+`Python` `psutil` `Linux`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ [`Mits-PRINT`](https://github.com/sankarlmao/Mits-PRINT)
+> Campus-wide printing utility built for MITS — the most starred project with **real-world deployment** across the college.
+
+```
+[+] Document queued
+[+] Printer: Lab-A3-HP
+[+] Pages: 12
+[+] Status: ✅ Printed successfully
+```
+
+`Python` ⭐4 🍴1
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ [`CleanFolder`](https://github.com/sankarlmao/CleanFolder)
+> Automatic file organizer — sorts messy directories into **categorized folders** by extension and type. CLI tool & GUI app.
+
+```
+$ cleanfolder ~/Downloads
+[+] Sorted 247 files
+[+] Categories: Images(42), Docs(89)...
+[+] Workspace: clean ✅
+```
+
+`Python` `CLI` ⭐2 🍴1
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [`all-ai`](https://github.com/sankarlmao/all-ai)
+> Unified interface for accessing **multiple AI models** in one place — built with Next.js for seamless model switching.
+
+```
+$ all-ai --model gpt4 --prompt "explain XSS"
+[+] Model: GPT-4
+[+] Tokens: 847
+[+] Response: ████████████ 100%
+```
+
+`JavaScript` `Next.js` ⭐1 🍴1
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 `$ find ~/projects -name "*.py" -o -name "*.js" | more`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ REPO                      │ DESCRIPTION                │ TECH  │
+├───────────────────────────┼────────────────────────────┼───────┤
+│ 🔐 rootme-CTF             │ Linux OVA CTF challenges   │ Linux │
+│ 🔄 sync-daemon            │ Background sync service    │ Python│
+│ 📋 DL-Management          │ College duty leave DBMS    │ Flask │
+│ 🖥️ Arch-dotfiles          │ Arch Linux rice & configs  │ CSS   │
+│ ⚙️ CGEN                   │ Offline C program gen      │ Python│
+│ 🌐 Portfolio              │ Personal website           │ React │
+│ 🔧 custom.terminal.header │ Custom terminal display    │ Shell │
+│ 🤖 TerBot                 │ CLI chatbot (no API)       │ Python│
+│ 🔓 unencryped-windows     │ Windows security research  │ -     │
+│ 🏗️ COA                    │ Load Storage Unit Design   │ -     │
+│ 💀 MLIBA                  │ Malware behavior analysis  │ -     │
+│ 📡 DataDock               │ Data management tool       │ -     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🏆 `$ cat /var/log/achievements`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sankarlmao&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+
+</div>
+
+---
+
+## 📊 `$ htop --sort=PERCENT_CPU`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sankarlmao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankarlmao&hide_border=true&background=0D1117&ring=00FF41&fire=FF6600&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=00FF41&dates=555555" width="49%" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankarlmao&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=10" width="42%" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📈 `$ tail -f /var/log/contributions`
 
 <p align="center">
-  Here are some of the languages and frameworks I work with sometimes. I'm not a pro or even intermediate on some tools, as some have a very deep learning curve.  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankarlmao&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&area_color=00FF4133" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- 
-- Advanced **Network Security** concepts  
-- **Penetration Testing** workflows  
-- I'm trying to learn web-development, React and others  
+## 🌐 `$ netstat -tulnp | grep LISTEN`
+
+<div align="center">
+
+```
+Proto  Local Address     State      Service
+tcp    0.0.0.0:443       LISTEN     portfolio
+tcp    0.0.0.0:993       LISTEN     email  
+tcp    0.0.0.0:6697      LISTEN     linkedin
+tcp    0.0.0.0:22        LISTEN     github
+```
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_sankarlmao.github.io-00FF41?style=for-the-badge&labelColor=0D1117)](http://sankarlmao.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankarcy/)
+[![Email](https://img.shields.io/badge/imsankarlmao@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imsankarlmao@gmail.com)
+[![GitHub](https://img.shields.io/badge/sankarlmao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankarlmao)
+
+</div>
 
 ---
 
-## 🛠️ Featured Projects  
+<div align="center">
 
-### 📂 [CleanFolder](https://github.com/sankarlmao/CleanFolder)  
-A smart file organizer that automatically categorizes and sorts your messy folders with ease.  
-- 🗂️ Organizes files by type, extension, or category  
-- ⚡ Lightweight & fast  
-- 🎯 Keeps your workspace clutter-free  
+```
+┌──(sankar㉿kali)-[~]
+└─$ echo "Open for internships, CTF teams & collaborations"
 
-### ⚙️ [CGen](https://github.com/sankarlmao/CGen)  
-An offline **C program generator** that creates simple or complex C programs from prompts.  
-- 📦 Fully offline, lightweight & portable  
-- 🧠 Generates programs covering data structures & core concepts  
-- 🔧 Designed for **learning & practice in C programming**  
+  ██████╗ ██████╗ ███████╗███╗   ██╗    ████████╗ ██████╗ 
+ ██╔═══██╗██╔══██╗██╔════╝████╗  ██║    ╚══██╔══╝██╔═══██╗
+ ██║   ██║██████╔╝█████╗  ██╔██╗ ██║       ██║   ██║   ██║
+ ██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║       ██║   ██║   ██║
+ ╚██████╔╝██║     ███████╗██║ ╚████║       ██║   ╚██████╔╝
+  ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝       ╚═╝    ╚═════╝ 
+ ██╗    ██╗ ██████╗ ██████╗ ██╗  ██╗
+ ██║    ██║██╔═══██╗██╔══██╗██║ ██╔╝
+ ██║ █╗ ██║██║   ██║██████╔╝█████╔╝ 
+ ██║███╗██║██║   ██║██╔══██╗██╔═██╗ 
+ ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗
+  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
-### 💬 [Quote CLI](https://github.com/sankarlmao/quote-cli)  
-A command-line tool that generates unique, fun, and motivational quotes.  
-- ⌨️ CLI-based & lightweight  
-- 🎲 Randomized responses for freshness  
-- 🛠️ Built for simplicity and inspiration on the go  
+```
 
----
+<img src="https://komarev.com/ghpvc/?username=sankarlmao&style=flat-square&color=00FF41&label=PROFILE+VISITORS" alt="Profile Views" />
 
-## 📦 Other Projects  
-- 🔎 **Vulnerability Scanner** – Built using Nmap, Socket, and Scapy with GUI + PDF export  
-- 📊 **Network Traffic Analyzer** – Custom analyzer with visualization features  
-- 🖥️ **Port Authentication System** – A security project for port-based access control  
-- 😂 **Yawn Detector** – Fun project for a "useless project hackathon"  
+<sub>⚡ "Hack → Learn → Build → Repeat" ⚡</sub>
 
----
-
-## 📊 GitHub Stats  
-
-![Sankar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankarlmao&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarlmao&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect with Me  
-- LinkedIn: [here it is](https://www.linkedin.com/in/sankarcy/)  
-- Email: [here it is](mailto:imsankarlmao@gmail.com)  
-- GitHub: [@sankarlmao](https://github.com/sankarlmao)  
-
----
-
-## 📈 GitHub Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankarlmao&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
----
-open for works/internships
+</div>
