@@ -307,16 +307,39 @@ $ all-ai --model gpt4 --prompt "explain XSS"
 
 ---
 
-## 🌐 `$ netstat -tulnp | grep LISTEN`
+## 🔗 `$ ./establish_secure_connection.sh`
 
 <div align="center">
 
-```
-Proto  Local Address     State      Service
-tcp    0.0.0.0:443       LISTEN     portfolio
-tcp    0.0.0.0:993       LISTEN     email  
-tcp    0.0.0.0:6697      LISTEN     linkedin
-tcp    0.0.0.0:22        LISTEN     github
+```bash
+┌──(sankar㉿kali)-[~/contacts]
+└─$ cat ~/.ssh/authorized_links
+
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗  ║
+  ║ ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝  ║
+  ║ ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║     ║
+  ║ ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║     ║
+  ║ ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║     ║
+  ║  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝     ║
+  ╚══════════════════════════════════════════════════════════════╝
+
+  ─── secure channels ──────────────────────────────────────────
+
+  🌐 WEB       →  sankarlmao.github.io        [ HTTPS/443  ]
+  📧 MAIL      →  imsankarlmao@gmail.com      [ SMTP/587   ]
+  💼 LINKEDIN  →  linkedin.com/in/sankarcy     [ TLS/993    ]
+  🐙 GITHUB    →  github.com/sankarlmao       [ SSH/22     ]
+
+  ─── connection status ────────────────────────────────────────
+
+  [✓] PGP Key     : published
+  [✓] Availability: open for work & collabs
+  [✓] Response    : < 24h
+  [✓] Status      : ONLINE ████████████████ 100%
+
+  ─────────────────────────────────────────────────────────────
+  fingerprint: 0xS4NK4R | trust_level: FULL | encrypted: ✓
 ```
 
 </div>
