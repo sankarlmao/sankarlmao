@@ -18,7 +18,6 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&random=false&width=750&height=80&lines=%24+whoami;sankar+%7C+CSE+%26+Cybersecurity+Student+%40+MITS" alt="Typing SVG" />
 
 <br/>
 
