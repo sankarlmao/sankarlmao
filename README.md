@@ -351,8 +351,41 @@ tcp    0.0.0.0:22        LISTEN     github
  ╚███╔███╔╝╚██████╔╝██║  ██║██║  ██╗
   ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
+
+
 ```
 
+## 💀 `$ fortune | cowsay -f hacker`
+
+```
+ ________________________________________
+/ "The quieter you become, the more you  \
+| are able to hear."                      |
+|                                         |
+|                    — Kali Linux motto    |
+\ ________________________________________/
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+  ─────── MORE WISDOM FROM /dev/random ───────
+
+  "There is no patch for human stupidity."
+                              — Kevin Mitnick
+
+  "Hackers are breaking the systems for 
+   profit. Before, it was about intellectual
+   curiosity and pursuit of knowledge."
+                              — Kevin Mitnick
+
+  "The best way to predict the future is 
+   to invent it."
+                              — Alan Kay
+```
+
+---
 <img src="https://komarev.com/ghpvc/?username=sankarlmao&style=flat-square&color=00FF41&label=PROFILE+VISITORS" alt="Profile Views" />
 
 <sub>⚡ "Hack → Learn → Build → Repeat" ⚡</sub>
